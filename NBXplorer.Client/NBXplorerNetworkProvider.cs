@@ -21,6 +21,7 @@ namespace NBXplorer
 			InitFeathercoin(networkType);
 			InitUfo(networkType);
 			InitViacoin(networkType);
+			InitBitcore(networkType);
 			NetworkType = networkType;
 			foreach(var chain in _Networks.Values)
 			{

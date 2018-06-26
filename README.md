@@ -22,6 +22,7 @@ It currently supports:
 * Feathercoin
 * Ufo
 * Viacoin
+* Bitcore
 
 ## Prerequisite
 
